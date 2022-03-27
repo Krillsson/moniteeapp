@@ -1,3 +1,3 @@
 # Issue tracker
-![image](header.png)
+![image](app-header.png)
 
